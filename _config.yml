@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 王帅的博客 | Hux Blog
+title: WangShuai Blog
+SEOTitle: 王帅的博客 | WS Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog,互联网, Web, JavaScript, 前端, 设计"
+email: 1184750432@qq.com
+description: "运维菜鸟"
+keyword: "WS Blog，互联网"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     none
+zhihu_username:     none
+github_username:    selince711
+twitter_username:   none
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: none
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: none
 
 
 
