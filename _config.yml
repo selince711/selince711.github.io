@@ -3,7 +3,7 @@ title: WangShuai Blog
 SEOTitle: 王帅的博客 | WS Blog
 header-img: img/home-bg.jpg
 email: 1184750432@qq.com
-description: "运维菜鸟"
+description: ""
 keyword: "WS Blog，互联网"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     none
-zhihu_username:     none
+#weibo_username:     none
+#zhihu_username:     none
 github_username:    selince711
-twitter_username:   none
+#twitter_username:   none
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -129,8 +129,5 @@ friends: [
     },{
         title: "DHong Say",
         href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
     }
 ]
